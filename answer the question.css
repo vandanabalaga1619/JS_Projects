@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-color: #f97576;
+    height: 100vh;
+}
+
+.main-heading {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Roboto";
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.option-label {
+    color: #2d3a35;
+    font-family: "Roboto";
+}
+
+.result-msg {
+    font-family: "Bree Serif";
+    font-size: 18px;
+}

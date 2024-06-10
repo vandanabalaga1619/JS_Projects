@@ -1,0 +1,60 @@
+.bg-container{
+    background-image:radial-gradient( #ffffff,black);
+    padding: 10px;
+}
+
+.main-heading{
+    text-align: center;
+    color: palevioletred;
+    font-family: "Roboto";
+    font-family: bold;
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.card-container1{
+    background-color: lightblue;
+    margin: 5px;
+    font-family: "Roboto";
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 16px;
+    border-left: 10px solid white;
+}
+
+.card-container2{
+    background-color: pink;
+    margin: 5px;
+    font-family: "Roboto";
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 16px;
+    border-left: 10px solid white;
+}
+
+.card-container3{
+    background-color: lightgreen;
+    margin: 5px;
+    font-family: "Roboto";
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 16px;
+    border-left: 10px solid white;
+}
+
+.card-container4{
+    background-color: lightgray;
+    margin: 5px;
+    font-family: "Roboto";
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 16px;
+    border-left: 10px solid white;
+    
+}
+
+.titles{
+    font-weight: 800;
+    font-size: 28px;
+}
